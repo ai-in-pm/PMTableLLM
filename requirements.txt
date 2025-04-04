@@ -1,6 +1,6 @@
-tqdm==4.66.1
+tqdm==4.66.3
 pandas==2.2.0
-transformers==4.37.2
+transformers==4.48.0
 vllm
 torch
 streamlit
